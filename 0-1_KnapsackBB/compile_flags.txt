@@ -1,0 +1,9 @@
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include\c++
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\mingw32
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\backward
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include
+-Ic:\MinGW\include
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include-fixed
+-ID:\cppworkspace\0-1_KnapsackBB
+-target
+x86_64-pc-windows-gnu
