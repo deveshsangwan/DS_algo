@@ -1,0 +1,9 @@
+# Don't track content of these folders
+**/Debug
+
+# Compiled source #
+*.DS_Store
+*.yml
+*.mk
+*.project
+*.txt
